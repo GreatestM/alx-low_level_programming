@@ -1,0 +1,1 @@
+* This file is a mandatory file for  alx  schoopl projects * 

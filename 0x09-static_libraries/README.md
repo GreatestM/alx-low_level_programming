@@ -1,0 +1,1 @@
+* thi is  a mandatory file  for alx school projects* 

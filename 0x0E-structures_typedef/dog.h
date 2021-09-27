@@ -1,12 +1,12 @@
 #ifndef Dog
 #define Dog
 /**
- * struct dog - create libraries
- * @name: char
- * @age: float
- * @owner: char
- * Description: nose
- */
+* struct dog - create libraries
+* @name: char
+* @age: float
+* @owner: char
+* Description: nose
+*/
 struct dog
 {
 char *name;

@@ -1,0 +1,1 @@
+*This is a mandatory file  for ALX school projects by Thulani*
